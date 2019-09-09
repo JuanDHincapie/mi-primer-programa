@@ -27,8 +27,6 @@ while vida_pikachu > 0 and vida_enemigo > 0:
     elif ataque_enemigo == "Bola Voltio":
         vida_enemigo -= 12
 
-    print("La vida del {} ahora es de {}".format(nombre_pokemon, vida_enemigo))
-
     print("{} te hace un ataque de {} de daño".format(nombre_pokemon, ataque_pokemon))
     vida_pikachu -= ataque_pokemon
 

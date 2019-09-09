@@ -2,6 +2,10 @@
   <dictionary name="User">
     <words>
       <w>elegido</w>
+      <w>escojida</w>
+      <w>numero</w>
+      <w>resultado</w>
+      <w>suma</w>
     </words>
   </dictionary>
 </component>
