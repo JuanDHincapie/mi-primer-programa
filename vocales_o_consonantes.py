@@ -17,4 +17,3 @@ for letra in frase_usuario:
 
 print("las vocales son {}".format(n_vocales))
 print("las consonantes son {}".format(n_consonantes))
-
