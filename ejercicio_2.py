@@ -22,4 +22,3 @@ print("el numero de puntos en la frase es {}".format(n_puntos))
 print("el numero de comas en la frase es {}".format(n_comas))
 
 print("el numero de espacios en la frase es {}".format(n_espacios))
-
